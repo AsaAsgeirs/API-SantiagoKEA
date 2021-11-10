@@ -31,7 +31,7 @@ This ensures a higher level of security against potential hacking threats.
 
 Santiago's link about HTTP requests methods: https://coderspage.com/iceland
 
-We used the **_Postman_** tool to verify the API
+We used the **_Postman_** to verify the API
 - Postman is an interactive and automatic tool for verifying the API
  
 ---------------------------------------------------------------------------------
