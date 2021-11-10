@@ -28,6 +28,8 @@ Also, during the exchange, HTTP headers, cookies, or query string parameters pro
 For example, consider an API offered by a payment processing service. Customers can enter their card details on the frontend of an application for an ecommerce store.
 The payment processor doesn’t require access to the user’s bank account; the API creates a unique token for this transaction and includes it in the API call to the server. 
 This ensures a higher level of security against potential hacking threats.
+
+Santiago's link about HTTP requests methods: https://coderspage.com/iceland
  
 ---------------------------------------------------------------------------------
 **Creating an application that consumes and uses data from an API using:** 
