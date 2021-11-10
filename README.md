@@ -30,6 +30,9 @@ The payment processor doesn’t require access to the user’s bank account; the
 This ensures a higher level of security against potential hacking threats.
 
 Santiago's link about HTTP requests methods: https://coderspage.com/iceland
+
+We used the **_Postman_** tool to verify the API
+- Postman is an interactive and automatic tool for verifying the API
  
 ---------------------------------------------------------------------------------
 **Creating an application that consumes and uses data from an API using:** 
