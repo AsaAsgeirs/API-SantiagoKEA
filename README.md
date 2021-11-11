@@ -35,11 +35,15 @@ We used the **_Postman_** to verify the API
 - Postman is an interactive and automatic tool for verifying the API
 
 # LIVE version URL
-index.html: guttural-place.surge.sh
-items.html: guttural-place.surge.sh/items.html
-patch.html: guttural-place.surge.sh/patch.html
-screen.html: guttural-place.surge.sh/screen.html
-search.html: guttural-place.surge.sh/search.html
+index.html: https://guttural-place.surge.sh
+
+items.html: https://guttural-place.surge.sh/items.html
+
+patch.html: https://guttural-place.surge.sh/patch.html
+
+screen.html: https://guttural-place.surge.sh/screen.html
+
+search.html: https://guttural-place.surge.sh/search.html
 
  
 ---------------------------------------------------------------------------------
