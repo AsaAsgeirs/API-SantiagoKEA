@@ -3,7 +3,7 @@
 I attended the Santiago Workshop and followed his instructions and did the assignments. I did not have a good understanding of what a API was before
 attending this workshop but I learned alot! I thought Santiago was a great teacher and explained everything really well.
 
-I learned how **API** works. An API is a set of defined rules that explain how computers or applications communicate with one another. APIs sit between an application and the web server, 
+> An API is a set of defined rules that explain how computers or applications communicate with one another. APIs sit between an application and the web server, 
 acting as an intermediary layer that processes data transfer between systems.
 
 **Here’s how an API works:**
